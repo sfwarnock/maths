@@ -36,3 +36,14 @@ Distributive Property
     Distributive Property: the product of a factor times a sume is the sume of the factor times each term in the sum.
             a * (b+c) = a * b + a * c
  
+Identity Properties
+    Identity property of addition: there is a unique number, called the additive identity (0) that, when added to number, results in the original number.
+            a + 0 = a
+    Identity propoerty of multiplication: there is a unique number, called the multiplicative indentify (1) that, when multiplied by a number, results in the original number.
+            a * 1 = a
+
+Inverse Properties
+    Inverse property of addition: for every real number a, there is a unique number, called the additive inverse (or opposite), denoted -a, that when added to the original number, results in the additive identity, 0.
+            a + (-a) = 0
+    Inverse property of multiplication: holds for all real numbers execpt 0 because the reciprocal of 0 is not defined. For every real number a, there is a unique number, called the multiplicative inverse (or reciprocal), denoted 1/a, that when multiplied by the original number, results in the multiplicative identity, 1.
+            a * 1/a = 1
