@@ -47,3 +47,17 @@ Inverse Properties
             a + (-a) = 0
     Inverse property of multiplication: holds for all real numbers execpt 0 because the reciprocal of 0 is not defined. For every real number a, there is a unique number, called the multiplicative inverse (or reciprocal), denoted 1/a, that when multiplied by the original number, results in the multiplicative identity, 1.
             a * 1/a = 1
+
+
+Exponents and Scientific Notation
+    Product rule of exponents: for any real numbers a and natural numbers m and n, the product rule of exponents states that:
+            a^m * a^n = a^(m + n)
+            
+    Quotient rule of exponents: for any real numbers a and natural numbers m and n, such that m > n, the quotient rule of exponents states that:
+            a^m / a^n = a^(m - n)
+    
+    Power rule of exponents: for any real number a and positive integers m and n, the power rule of exponents states that:
+            (a^m)^n = a^(m * n)
+    
+    Zero exponent rule of exponents: for any nonzero real number a, that zero exponent rule of exponents states that:
+            a^0 = 1
