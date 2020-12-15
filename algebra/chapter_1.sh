@@ -61,3 +61,14 @@ Exponents and Scientific Notation
     
     Zero exponent rule of exponents: for any nonzero real number a, that zero exponent rule of exponents states that:
             a^0 = 1
+    
+    Negative rule of exponents: for any real number a and natural number n, the negative rule of exponents states that:
+            a^-n = 1 / a^n
+
+    Power of a product rule of exponents: for any real number a and natural number n, the negative rule of exponents states that:
+            (ab)^n = a^n * b^n
+
+    Power of a quotient rule of exponents: for any real number a and b and any integer n, the power of a quotient rule of exponents states that:
+            (a / b)^n = a^n / b^n
+            
+    
